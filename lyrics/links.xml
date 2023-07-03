@@ -180,7 +180,7 @@
 </link>
 <link>
 <title>Cat &amp; Dog</title>
-<url>http://localhost/TXT/lyrics/cat&dog.php</url>
+<url>http://localhost/TXT/lyrics/cat&amp;dog.php</url>
 </link>
 <link>
 <title>Nap of a star 별의 낮잠</title>
@@ -287,5 +287,4 @@
 <title>Farewell, Neverland 네버랜드를 떠나며</title>
 <url>http://localhost/TXT/lyrics/farewell,neverland.php</url>
 </link>
-<link>
 </pages>
